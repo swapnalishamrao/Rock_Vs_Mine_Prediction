@@ -1,6 +1,7 @@
 # Rock_Vs_Mine_Prediction
 1. Business Problem.
-2. Solution Strategy
+ The decision between starting a rock quarry business and a mining business comes down to factors like resource availability, environmental regulations, investment costs, market demand, competition, location, safety, profit margins, resource longevity, sustainability, legal risks, diversification, and your long-term goals. Carefully evaluate these factors to determine which business aligns better with your resources and objectives.
+3. Solution Strategy
 My strategy to solve this challenge was:
 
 Step 01: Data Description: Use statistics metrics to identify data distribuctions.
